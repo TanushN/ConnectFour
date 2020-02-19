@@ -12,7 +12,7 @@ I really enjoyed working on this project as it showed the practical potential of
 
 If you want to run the files from the project files directly, you will have to download eclipse and enable the window builder plugin to get it to run without errors and as intended.
 
-**So to solve this issue, I have included the exported Jar file of this project. All you need to is download the ConnectFour.Jar and run it. (Make sure you have Java installed on your device)
-Link: [ConnectFour.java](ConnectFour.java) **
+**So to solve this issue, I have included the exported Jar file of this project. All you need to is download the ConnectFour.Jar and run it. (Make sure you have Java installed on your device)**
+**Link: [ConnectFour.java](https://github.com/TanushN/ConnectFour/blob/master/ConnectFour.jar) **
 
 
